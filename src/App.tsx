@@ -2529,7 +2529,7 @@ const Elaqe = () => {
                                 <Mail className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                             </div>
                             <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">{t('contact_page.email')}</h3>
-                            <p className="text-gray-500 dark:text-gray-400">info@stackacademy.az</p>
+                            <p className="text-gray-500 dark:text-gray-400">info@stack.az</p>
                         </div>
                     </FadeIn>
                     <FadeIn delay={0.2}>
