@@ -2538,7 +2538,7 @@ const Elaqe = () => {
                                 <Phone className="w-6 h-6 text-emerald-600 dark:text-emerald-400" />
                             </div>
                             <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2">{t('contact_page.phone')}</h3>
-                            <p className="text-gray-500 dark:text-gray-400">+994 50 123 45 67</p>
+                            <p className="text-gray-500 dark:text-gray-400">+994702002990</p>
                         </div>
                     </FadeIn>
                     <FadeIn delay={0.3}>
